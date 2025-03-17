@@ -18,7 +18,7 @@ Este projeto é um exemplo de aplicação Spring Boot usando Kotlin.
 
 1. Clone o repositório:
     ```sh
-    git clone <URL_DO_REPOSITORIO>
+    git clone https://github.com/joaopedrodevl/kotlin-spring-learn.git
     cd kotlin-spring-learn
     ```
 
