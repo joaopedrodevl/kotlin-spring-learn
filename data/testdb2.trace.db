@@ -1,0 +1,9 @@
+2025-03-17 16:49:57.019023-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "messages" not found (candidates are: "MESSAGES"); SQL statement:
+SELECT "messages"."ID" AS "ID", "messages"."TEXT" AS "TEXT" FROM "messages" [42103-232]
+2025-03-17 16:50:09.454141-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "messages" not found (candidates are: "MESSAGES"); SQL statement:
+SELECT "messages"."ID" AS "ID", "messages"."TEXT" AS "TEXT" FROM "messages" [42103-232]
+2025-03-17 16:51:56.065457-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "messages" not found (candidates are: "MESSAGES"); SQL statement:
+SELECT "messages"."ID" AS "ID", "messages"."TEXT" AS "TEXT" FROM "messages" WHERE "messages"."ID" = ? [42103-232]
